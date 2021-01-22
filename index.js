@@ -1,3 +1,4 @@
+
 /*
     1. need to init the directory as "myApp": npm init
     2. init as git repository: git init
@@ -7,8 +8,12 @@
     6. Install package: npm install bootstrap --save
 Need to ignore node_module, I create ".gitignore"
     7. check git status: git status
-    8. git commit -m "Initialize Module"
-    9. 
+    8. git add .
+    9. git commit -m "Initialize Module"
+    10. git log --oneline
+
+
+-----------------------> Upload this on github <-----------------------
 
 
 */
